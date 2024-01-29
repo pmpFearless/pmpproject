@@ -1,3 +1,7 @@
+As i go down the road finding online templates for hosting my portfolio i found out about github, kaggle and others platform.
+
+I've come to realize that with HTML, CSS and Javascript i could do many more things but those aren't my priority yet. It's fun to learn some basic in this portfolio creation. 
+
 Big thanks to HTML5 UP for providing useful template used in my project portfolio 
 Thank you Ali Ahmad for providing crispy clean insturctions on powerBI
 Thank you Analytical Guy for cleaning techniques
