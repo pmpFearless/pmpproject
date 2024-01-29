@@ -1,4 +1,7 @@
 Big thanks to HTML5 UP for providing useful template used in my project portfolio 
+Thank you Ali Ahmad for providing crispy clean insturctions on powerBI
+Thank you Analytical Guy for cleaning techniques
+and many others creators 
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
